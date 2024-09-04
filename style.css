@@ -114,3 +114,7 @@ input[type=text]:focus {
       opacity: 0;
   }
 }
+.image scetion 1{
+       height:360px;
+       padding:50px;
+}
